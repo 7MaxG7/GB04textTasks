@@ -1,0 +1,11 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/.idea.TextTasks.iml
+/contentModel.xml
+/modules.xml
+/projectSettingsUpdater.xml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\maxgi\Documents\Workspace_Unity\TextTasks\.idea\.idea.TextTasks\.idea/dataSources/
+/dataSources.local.xml
